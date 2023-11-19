@@ -1,0 +1,12 @@
+g0049
+t1566
+May read system environment variables
+Sysinternals Suite
+11
+windowsupdate
+MicrosoftEdgeUpdateTaskMachineUC
+Get-MpComputerStatus
+keylogger
+T1056.001
+45.89.125.189
+T1048.003
